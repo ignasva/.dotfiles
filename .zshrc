@@ -1,3 +1,6 @@
+# dotfiles
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
 # AWS
 export AWS_PROFILE=
 export AWS_DEFAULT_REGION=
